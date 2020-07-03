@@ -1,0 +1,1 @@
+create DATABASE student_examination_sys
